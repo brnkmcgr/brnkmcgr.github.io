@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://brnkmcgr.github.io/sitemap.xml 
